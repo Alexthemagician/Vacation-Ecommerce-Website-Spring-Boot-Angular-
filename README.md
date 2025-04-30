@@ -1,0 +1,1 @@
+The code in this repository was written to provide back-end functionality to a website that already has an angular front-end. The front-end files, as well as a MySQL database were provided beforehand. To see a demonstration of the full project, please visit: https://youtu.be/KVYbReY2Xsg
